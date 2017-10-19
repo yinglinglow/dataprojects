@@ -5,6 +5,9 @@ A portfolio of my Data projects for hobby and self-learning, and random musings.
 ## Content
 ### 1) Births and Fertility
 Visualising data from Data.gov.sg, particularly Births and Fertility (in progress)
+
+Go [here](file:///Users/yingling/Downloads/Plotly%20Playground%202017-10-19%2016%253A05%253A36.html) for an interactive plot
+
 ![](TFR.png?raw=true)
 
 In 2016, many more Singaporeans are giving birth between 30 - 34 years old. Likely the result of an increasingly ambitious female workforce which focuses on building their career first?
