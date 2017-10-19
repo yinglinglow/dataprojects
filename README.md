@@ -6,7 +6,7 @@ A portfolio of my Data projects for hobby and self-learning, and random musings.
 ### 1) Births and Fertility
 Visualising data from Data.gov.sg, particularly Births and Fertility (in progress)
 
-Go [here](file:///Users/yingling/Downloads/Plotly%20Playground%202017-10-19%2016%253A05%253A36.html) for an interactive plot
+Go [here](https://plot.ly/~yllow/6/tfr-15-19-years-tfr-20-24-years-tfr-25-29-years-tfr-30-34-years-tfr-35-39-years-/) for an interactive plot
 
 ![](TFR.png?raw=true)
 
